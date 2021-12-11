@@ -1,7 +1,8 @@
 ﻿<Properties StartupConfiguration="{BF2AF8B3-4920-4CAE-8ACC-F619115CE64A}|Default">
-  <MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workbench ActiveDocument="../../../Downloads/kafe otomasyonu/Kafe_Otomasyonu.sln">
     <Files>
-      <File FileName="Program.cs" Line="1" Column="1" />
+      <File FileName="Program.cs" Line="23" Column="1" />
+      <File FileName="../../../Downloads/kafe otomasyonu/Kafe_Otomasyonu.sln" Line="1" Column="1" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
